@@ -1,0 +1,25 @@
+{
+  "name": "vite-kizuna",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "format": "prettier --write \"**/*.+(js|json|yml|ts|tsx)\""
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "@types/three": "^0.160.0",
+    "prettier": "^3.2.4",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8",
+    "vite-plugin-top-level-await": "^1.4.1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lil-gui": "^0.19.1",
+    "three": "^0.160.0"
+  }
+}

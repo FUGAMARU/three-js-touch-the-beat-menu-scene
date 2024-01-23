@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kizuna AI
+* source:	https://sketchfab.com/3d-models/kizuna-ai-c9eb5d213fe54a96a4b3b77a7b509920
+* author:	Adipriatna (https://sketchfab.com/adipriatna)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kizuna AI" (https://sketchfab.com/3d-models/kizuna-ai-c9eb5d213fe54a96a4b3b77a7b509920) by Adipriatna (https://sketchfab.com/adipriatna) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
