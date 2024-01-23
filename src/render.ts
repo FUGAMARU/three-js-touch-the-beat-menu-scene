@@ -95,7 +95,7 @@ export const render = async ({
 
   /** 地球 (遊びで追加しただけ) */
   const nightEarthTexture = new THREE.TextureLoader().load(
-    "/earth-nightmap.jpg"
+    "./earth-nightmap.jpg"
   )
   const earth = new THREE.Mesh(
     new THREE.SphereGeometry(5, 32, 32),
