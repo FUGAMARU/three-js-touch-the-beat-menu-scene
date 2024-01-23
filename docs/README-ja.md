@@ -1,8 +1,8 @@
 # Three.js Touch the Beat! Menu Scene
 
-| 本リポジトリ                                              | オリジナル                                             |
-| --------------------------------------------------------- | ------------------------------------------------------ |
-| <video src="this.mp4" controls title="This Repository" /> | <video src="original.mp4" controls title="Original" /> |
+| 本リポジトリ                                                                                                                                                        | オリジナル                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <video src="https://github.com/FUGAMARU/three-js-touch-the-beat-menu-scene/assets/7829486/dce5eebd-bb94-48e0-8108-143c73e48b3c" controls title="This Repository" /> | <video src="https://github.com/FUGAMARU/three-js-touch-the-beat-menu-scene/assets/7829486/cc472442-e678-4ac7-b1ef-f612fb0ec4fd" controls title="Original" /> |
 
 Meta Quest向けアプリ [Kizuna AI - Touch the Beat!](https://www.oculus.com/deeplink/?action=view&path=/app/3857024597703276&ref=oculus_desktop) の起動時に表示されるメニュー画面の背景パーティクルを、Three.jsの練習がてら再現してみたリポジトリです。WebXRに対応しています。
 

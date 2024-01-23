@@ -2,9 +2,9 @@
 
 [日本語バージョンはこちら](/docs/README-ja.md)
 
-| This Repository                                                | Original                                                    |
-| -------------------------------------------------------------- | ----------------------------------------------------------- |
-| <video src="docs/this.mp4" controls title="This Repository" /> | <video src="docs/original.mp4" controls title="Original" /> |
+| This Repository                                                                                                                                                     | Original                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <video src="https://github.com/FUGAMARU/three-js-touch-the-beat-menu-scene/assets/7829486/dce5eebd-bb94-48e0-8108-143c73e48b3c" controls title="This Repository" /> | <video src="https://github.com/FUGAMARU/three-js-touch-the-beat-menu-scene/assets/7829486/cc472442-e678-4ac7-b1ef-f612fb0ec4fd" controls title="Original" /> |
 
 This is a repository where I tried to recreate the background particles of the menu screen displayed at the launch of the [Kizuna AI - Touch the Beat!](https://www.oculus.com/deeplink/?action=view&path=/app/3857024597703276&ref=oculus_desktop) app for Meta Quest as an exercise in Three.js. It supports WebXR.
 
